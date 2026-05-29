@@ -1,0 +1,41 @@
+entity_id,entity_name,entity_type,risk_level,country
+ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,Burundi
+ENT002,Megan Mcclain,Vendor,Low,Benin
+ENT003,Amanda Davis,Individual,Low,Djibouti
+ENT004,"Guzman, Hoffman and Baldwin",Company,High,Reunion
+ENT005,"Barnes, Cole and Ramirez",Company,High,Trinidad and Tobago
+ENT006,Robert Wolfe,Client,Low,Guam
+ENT007,Moore-Bernard,Company,Low,Guadeloupe
+ENT008,James Howard,Individual,Low,Guatemala
+ENT009,"Baker, Williams and Stevens",Company,High,British Virgin Islands
+ENT010,Jamie Arnold,Individual,High,Switzerland
+ENT011,Stacey Ward,Client,Low,Congo
+ENT012,Amber Perez,Client,High,French Guiana
+ENT013,Dr. Sharon James,Vendor,Low,Korea
+ENT014,Holly Wood,Individual,High,Cote d'Ivoire
+ENT015,Mia Sutton,Client,Medium,Barbados
+ENT016,Carolyn Daniel,Vendor,Low,Central African Republic
+ENT017,Devin Schaefer,Individual,Medium,Portugal
+ENT018,"Robinson, Nguyen and Tate",Company,Low,Azerbaijan
+ENT019,Andrew Stewart,Client,Low,Ethiopia
+ENT020,Thomas Bradley,Vendor,Medium,Saint Barthelemy
+ENT021,Matthew Foster,Vendor,Low,United States Virgin Islands
+ENT022,Brenda Taylor,Client,High,Samoa
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,Myanmar
+ENT024,Cox-Osborn,Company,High,Burundi
+ENT025,Ann Williams,Vendor,High,Bouvet Island (Bouvetoya)
+ENT026,Christopher Becker,Vendor,High,Nepal
+ENT027,James Ferrell,Individual,High,Marshall Islands
+ENT028,Maddox-Valencia,Company,Low,Algeria
+ENT029,Ashley Dyer,Individual,Medium,Sao Tome and Principe
+ENT030,Mack-Peterson,Company,Low,French Polynesia
+ENT031,Moore-Smith,Company,Medium,Saint Helena
+ENT032,Deborah Mason,Vendor,Medium,Christmas Island
+ENT033,Ashley Garrett,Vendor,Low,Tajikistan
+ENT034,Lisa Hernandez,Vendor,Medium,Serbia
+ENT035,Troy Nielsen,Individual,High,Uruguay
+ENT036,Fred Smith,Vendor,High,Vanuatu
+ENT037,Koch-Decker,Company,High,Gambia
+ENT038,David Bradley,Individual,High,Belgium
+ENT039,John Jones,Individual,Low,Senegal
+ENT040,Beth Keller,Client,Medium,Yemen

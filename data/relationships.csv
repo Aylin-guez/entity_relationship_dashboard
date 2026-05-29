@@ -1,0 +1,412 @@
+sender_entity_id,sender_entity_name,sender_entity_type,sender_risk_level,receiver_entity_id,receiver_entity_name,receiver_entity_type,receiver_risk_level,transaction_count,total_amount_usd,avg_amount_usd
+ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,3255.75,3255.75
+ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,ENT019,Andrew Stewart,Client,Low,2,19427.84,9713.92
+ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,ENT027,James Ferrell,Individual,High,1,12339.41,12339.41
+ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,ENT034,Lisa Hernandez,Vendor,Medium,1,1920.58,1920.58
+ENT002,Megan Mcclain,Vendor,Low,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,7994.88,7994.88
+ENT002,Megan Mcclain,Vendor,Low,ENT012,Amber Perez,Client,High,1,3998.88,3998.88
+ENT002,Megan Mcclain,Vendor,Low,ENT016,Carolyn Daniel,Vendor,Low,1,4339.37,4339.37
+ENT002,Megan Mcclain,Vendor,Low,ENT019,Andrew Stewart,Client,Low,2,16864.56,8432.28
+ENT002,Megan Mcclain,Vendor,Low,ENT021,Matthew Foster,Vendor,Low,1,1086.09,1086.09
+ENT002,Megan Mcclain,Vendor,Low,ENT022,Brenda Taylor,Client,High,1,11833.09,11833.09
+ENT002,Megan Mcclain,Vendor,Low,ENT024,Cox-Osborn,Company,High,1,4985.31,4985.31
+ENT002,Megan Mcclain,Vendor,Low,ENT026,Christopher Becker,Vendor,High,1,11824.71,11824.71
+ENT002,Megan Mcclain,Vendor,Low,ENT037,Koch-Decker,Company,High,1,5488.8,5488.8
+ENT003,Amanda Davis,Individual,Low,ENT002,Megan Mcclain,Vendor,Low,1,2077.12,2077.12
+ENT003,Amanda Davis,Individual,Low,ENT006,Robert Wolfe,Client,Low,1,10274.32,10274.32
+ENT003,Amanda Davis,Individual,Low,ENT015,Mia Sutton,Client,Medium,1,5944.07,5944.07
+ENT003,Amanda Davis,Individual,Low,ENT017,Devin Schaefer,Individual,Medium,2,25381.08,12690.54
+ENT003,Amanda Davis,Individual,Low,ENT020,Thomas Bradley,Vendor,Medium,1,14002.23,14002.23
+ENT003,Amanda Davis,Individual,Low,ENT022,Brenda Taylor,Client,High,1,9232.4,9232.4
+ENT003,Amanda Davis,Individual,Low,ENT027,James Ferrell,Individual,High,1,5184.32,5184.32
+ENT004,"Guzman, Hoffman and Baldwin",Company,High,ENT007,Moore-Bernard,Company,Low,1,6570.4,6570.4
+ENT004,"Guzman, Hoffman and Baldwin",Company,High,ENT013,Dr. Sharon James,Vendor,Low,1,7788.63,7788.63
+ENT004,"Guzman, Hoffman and Baldwin",Company,High,ENT014,Holly Wood,Individual,High,1,4024.17,4024.17
+ENT004,"Guzman, Hoffman and Baldwin",Company,High,ENT017,Devin Schaefer,Individual,Medium,1,14117.43,14117.43
+ENT004,"Guzman, Hoffman and Baldwin",Company,High,ENT021,Matthew Foster,Vendor,Low,1,4116.42,4116.42
+ENT004,"Guzman, Hoffman and Baldwin",Company,High,ENT033,Ashley Garrett,Vendor,Low,1,3404.43,3404.43
+ENT004,"Guzman, Hoffman and Baldwin",Company,High,ENT035,Troy Nielsen,Individual,High,1,12544.51,12544.51
+ENT004,"Guzman, Hoffman and Baldwin",Company,High,ENT037,Koch-Decker,Company,High,1,7219.72,7219.72
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT011,Stacey Ward,Client,Low,2,11282.9,5641.45
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT017,Devin Schaefer,Individual,Medium,1,11683.27,11683.27
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,11595.81,11595.81
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT026,Christopher Becker,Vendor,High,1,10930.0,10930.0
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT028,Maddox-Valencia,Company,Low,1,578.83,578.83
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT030,Mack-Peterson,Company,Low,2,7238.15,3619.08
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT032,Deborah Mason,Vendor,Medium,1,1224.67,1224.67
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT033,Ashley Garrett,Vendor,Low,1,8172.63,8172.63
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT039,John Jones,Individual,Low,1,9574.99,9574.99
+ENT005,"Barnes, Cole and Ramirez",Company,High,ENT040,Beth Keller,Client,Medium,1,12362.23,12362.23
+ENT006,Robert Wolfe,Client,Low,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,6887.83,6887.83
+ENT006,Robert Wolfe,Client,Low,ENT004,"Guzman, Hoffman and Baldwin",Company,High,1,11470.97,11470.97
+ENT006,Robert Wolfe,Client,Low,ENT005,"Barnes, Cole and Ramirez",Company,High,1,2509.69,2509.69
+ENT006,Robert Wolfe,Client,Low,ENT011,Stacey Ward,Client,Low,1,8195.21,8195.21
+ENT006,Robert Wolfe,Client,Low,ENT026,Christopher Becker,Vendor,High,1,12929.92,12929.92
+ENT006,Robert Wolfe,Client,Low,ENT028,Maddox-Valencia,Company,Low,2,29040.64,14520.32
+ENT006,Robert Wolfe,Client,Low,ENT032,Deborah Mason,Vendor,Medium,1,9507.54,9507.54
+ENT006,Robert Wolfe,Client,Low,ENT040,Beth Keller,Client,Medium,2,18032.11,9016.06
+ENT007,Moore-Bernard,Company,Low,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,3220.98,3220.98
+ENT007,Moore-Bernard,Company,Low,ENT008,James Howard,Individual,Low,1,12795.57,12795.57
+ENT007,Moore-Bernard,Company,Low,ENT013,Dr. Sharon James,Vendor,Low,1,4461.29,4461.29
+ENT007,Moore-Bernard,Company,Low,ENT017,Devin Schaefer,Individual,Medium,3,24588.44,8196.15
+ENT007,Moore-Bernard,Company,Low,ENT020,Thomas Bradley,Vendor,Medium,1,6415.79,6415.79
+ENT007,Moore-Bernard,Company,Low,ENT021,Matthew Foster,Vendor,Low,1,12788.81,12788.81
+ENT007,Moore-Bernard,Company,Low,ENT024,Cox-Osborn,Company,High,2,26571.73,13285.86
+ENT007,Moore-Bernard,Company,Low,ENT026,Christopher Becker,Vendor,High,1,10047.11,10047.11
+ENT007,Moore-Bernard,Company,Low,ENT028,Maddox-Valencia,Company,Low,2,11049.92,5524.96
+ENT007,Moore-Bernard,Company,Low,ENT032,Deborah Mason,Vendor,Medium,1,6696.1,6696.1
+ENT007,Moore-Bernard,Company,Low,ENT035,Troy Nielsen,Individual,High,1,10183.73,10183.73
+ENT007,Moore-Bernard,Company,Low,ENT036,Fred Smith,Vendor,High,1,487.14,487.14
+ENT007,Moore-Bernard,Company,Low,ENT039,John Jones,Individual,Low,1,4448.31,4448.31
+ENT008,James Howard,Individual,Low,ENT011,Stacey Ward,Client,Low,1,5241.22,5241.22
+ENT008,James Howard,Individual,Low,ENT012,Amber Perez,Client,High,1,13950.59,13950.59
+ENT008,James Howard,Individual,Low,ENT017,Devin Schaefer,Individual,Medium,3,19791.44,6597.15
+ENT008,James Howard,Individual,Low,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,8622.15,8622.15
+ENT008,James Howard,Individual,Low,ENT019,Andrew Stewart,Client,Low,1,3583.66,3583.66
+ENT008,James Howard,Individual,Low,ENT020,Thomas Bradley,Vendor,Medium,1,5529.24,5529.24
+ENT008,James Howard,Individual,Low,ENT022,Brenda Taylor,Client,High,1,14736.22,14736.22
+ENT008,James Howard,Individual,Low,ENT027,James Ferrell,Individual,High,1,2030.68,2030.68
+ENT008,James Howard,Individual,Low,ENT029,Ashley Dyer,Individual,Medium,1,14207.23,14207.23
+ENT008,James Howard,Individual,Low,ENT031,Moore-Smith,Company,Medium,1,10693.21,10693.21
+ENT008,James Howard,Individual,Low,ENT035,Troy Nielsen,Individual,High,1,3391.52,3391.52
+ENT008,James Howard,Individual,Low,ENT036,Fred Smith,Vendor,High,1,14217.66,14217.66
+ENT008,James Howard,Individual,Low,ENT037,Koch-Decker,Company,High,1,409.53,409.53
+ENT009,"Baker, Williams and Stevens",Company,High,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,5389.68,5389.68
+ENT009,"Baker, Williams and Stevens",Company,High,ENT007,Moore-Bernard,Company,Low,1,5923.71,5923.71
+ENT009,"Baker, Williams and Stevens",Company,High,ENT012,Amber Perez,Client,High,1,14892.88,14892.88
+ENT009,"Baker, Williams and Stevens",Company,High,ENT017,Devin Schaefer,Individual,Medium,1,3389.84,3389.84
+ENT009,"Baker, Williams and Stevens",Company,High,ENT019,Andrew Stewart,Client,Low,1,7619.16,7619.16
+ENT009,"Baker, Williams and Stevens",Company,High,ENT020,Thomas Bradley,Vendor,Medium,1,9644.02,9644.02
+ENT009,"Baker, Williams and Stevens",Company,High,ENT026,Christopher Becker,Vendor,High,1,5320.13,5320.13
+ENT009,"Baker, Williams and Stevens",Company,High,ENT031,Moore-Smith,Company,Medium,1,1085.65,1085.65
+ENT009,"Baker, Williams and Stevens",Company,High,ENT035,Troy Nielsen,Individual,High,1,9605.91,9605.91
+ENT009,"Baker, Williams and Stevens",Company,High,ENT036,Fred Smith,Vendor,High,1,3097.95,3097.95
+ENT009,"Baker, Williams and Stevens",Company,High,ENT040,Beth Keller,Client,Medium,1,13030.21,13030.21
+ENT010,Jamie Arnold,Individual,High,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,2478.39,2478.39
+ENT010,Jamie Arnold,Individual,High,ENT003,Amanda Davis,Individual,Low,1,14195.27,14195.27
+ENT010,Jamie Arnold,Individual,High,ENT008,James Howard,Individual,Low,1,9244.76,9244.76
+ENT010,Jamie Arnold,Individual,High,ENT011,Stacey Ward,Client,Low,1,1049.46,1049.46
+ENT010,Jamie Arnold,Individual,High,ENT013,Dr. Sharon James,Vendor,Low,1,12232.86,12232.86
+ENT010,Jamie Arnold,Individual,High,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,1753.54,1753.54
+ENT010,Jamie Arnold,Individual,High,ENT020,Thomas Bradley,Vendor,Medium,1,1789.98,1789.98
+ENT010,Jamie Arnold,Individual,High,ENT026,Christopher Becker,Vendor,High,1,13783.56,13783.56
+ENT010,Jamie Arnold,Individual,High,ENT029,Ashley Dyer,Individual,Medium,1,2746.39,2746.39
+ENT010,Jamie Arnold,Individual,High,ENT040,Beth Keller,Client,Medium,1,1480.03,1480.03
+ENT011,Stacey Ward,Client,Low,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,6142.55,6142.55
+ENT011,Stacey Ward,Client,Low,ENT002,Megan Mcclain,Vendor,Low,1,3930.09,3930.09
+ENT011,Stacey Ward,Client,Low,ENT007,Moore-Bernard,Company,Low,1,782.81,782.81
+ENT011,Stacey Ward,Client,Low,ENT009,"Baker, Williams and Stevens",Company,High,1,8114.73,8114.73
+ENT011,Stacey Ward,Client,Low,ENT013,Dr. Sharon James,Vendor,Low,1,9046.88,9046.88
+ENT011,Stacey Ward,Client,Low,ENT016,Carolyn Daniel,Vendor,Low,1,5760.95,5760.95
+ENT011,Stacey Ward,Client,Low,ENT017,Devin Schaefer,Individual,Medium,1,497.77,497.77
+ENT011,Stacey Ward,Client,Low,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,2847.49,2847.49
+ENT011,Stacey Ward,Client,Low,ENT019,Andrew Stewart,Client,Low,1,6452.85,6452.85
+ENT011,Stacey Ward,Client,Low,ENT026,Christopher Becker,Vendor,High,2,25158.42,12579.21
+ENT011,Stacey Ward,Client,Low,ENT028,Maddox-Valencia,Company,Low,2,14951.6,7475.8
+ENT011,Stacey Ward,Client,Low,ENT031,Moore-Smith,Company,Medium,3,32795.96,10931.99
+ENT011,Stacey Ward,Client,Low,ENT036,Fred Smith,Vendor,High,1,9495.22,9495.22
+ENT011,Stacey Ward,Client,Low,ENT038,David Bradley,Individual,High,2,23579.03,11789.52
+ENT012,Amber Perez,Client,High,ENT007,Moore-Bernard,Company,Low,2,11785.08,5892.54
+ENT012,Amber Perez,Client,High,ENT008,James Howard,Individual,Low,1,13772.78,13772.78
+ENT012,Amber Perez,Client,High,ENT011,Stacey Ward,Client,Low,1,4856.84,4856.84
+ENT012,Amber Perez,Client,High,ENT012,Amber Perez,Client,High,1,1207.55,1207.55
+ENT012,Amber Perez,Client,High,ENT015,Mia Sutton,Client,Medium,1,12069.96,12069.96
+ENT012,Amber Perez,Client,High,ENT020,Thomas Bradley,Vendor,Medium,1,259.48,259.48
+ENT012,Amber Perez,Client,High,ENT024,Cox-Osborn,Company,High,1,1925.79,1925.79
+ENT012,Amber Perez,Client,High,ENT029,Ashley Dyer,Individual,Medium,2,28507.91,14253.96
+ENT012,Amber Perez,Client,High,ENT030,Mack-Peterson,Company,Low,1,7796.48,7796.48
+ENT012,Amber Perez,Client,High,ENT038,David Bradley,Individual,High,2,11432.76,5716.38
+ENT012,Amber Perez,Client,High,ENT039,John Jones,Individual,Low,4,34011.21,8502.8
+ENT013,Dr. Sharon James,Vendor,Low,ENT002,Megan Mcclain,Vendor,Low,1,9329.5,9329.5
+ENT013,Dr. Sharon James,Vendor,Low,ENT009,"Baker, Williams and Stevens",Company,High,1,2057.53,2057.53
+ENT013,Dr. Sharon James,Vendor,Low,ENT020,Thomas Bradley,Vendor,Medium,2,7815.24,3907.62
+ENT013,Dr. Sharon James,Vendor,Low,ENT034,Lisa Hernandez,Vendor,Medium,1,6742.99,6742.99
+ENT013,Dr. Sharon James,Vendor,Low,ENT039,John Jones,Individual,Low,1,7908.68,7908.68
+ENT014,Holly Wood,Individual,High,ENT017,Devin Schaefer,Individual,Medium,1,10012.33,10012.33
+ENT014,Holly Wood,Individual,High,ENT019,Andrew Stewart,Client,Low,1,14181.23,14181.23
+ENT014,Holly Wood,Individual,High,ENT027,James Ferrell,Individual,High,1,5857.42,5857.42
+ENT015,Mia Sutton,Client,Medium,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,11348.79,11348.79
+ENT015,Mia Sutton,Client,Medium,ENT005,"Barnes, Cole and Ramirez",Company,High,1,11723.96,11723.96
+ENT015,Mia Sutton,Client,Medium,ENT007,Moore-Bernard,Company,Low,1,13451.48,13451.48
+ENT015,Mia Sutton,Client,Medium,ENT011,Stacey Ward,Client,Low,1,8243.34,8243.34
+ENT015,Mia Sutton,Client,Medium,ENT012,Amber Perez,Client,High,1,12066.55,12066.55
+ENT015,Mia Sutton,Client,Medium,ENT013,Dr. Sharon James,Vendor,Low,1,14432.11,14432.11
+ENT015,Mia Sutton,Client,Medium,ENT014,Holly Wood,Individual,High,1,4193.21,4193.21
+ENT015,Mia Sutton,Client,Medium,ENT019,Andrew Stewart,Client,Low,2,21841.85,10920.92
+ENT015,Mia Sutton,Client,Medium,ENT026,Christopher Becker,Vendor,High,2,24894.37,12447.19
+ENT015,Mia Sutton,Client,Medium,ENT027,James Ferrell,Individual,High,1,12377.09,12377.09
+ENT015,Mia Sutton,Client,Medium,ENT028,Maddox-Valencia,Company,Low,2,11603.84,5801.92
+ENT015,Mia Sutton,Client,Medium,ENT031,Moore-Smith,Company,Medium,1,4165.58,4165.58
+ENT015,Mia Sutton,Client,Medium,ENT035,Troy Nielsen,Individual,High,1,2006.37,2006.37
+ENT016,Carolyn Daniel,Vendor,Low,ENT015,Mia Sutton,Client,Medium,1,379.37,379.37
+ENT016,Carolyn Daniel,Vendor,Low,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,11822.72,11822.72
+ENT016,Carolyn Daniel,Vendor,Low,ENT021,Matthew Foster,Vendor,Low,1,11621.17,11621.17
+ENT016,Carolyn Daniel,Vendor,Low,ENT026,Christopher Becker,Vendor,High,1,678.62,678.62
+ENT016,Carolyn Daniel,Vendor,Low,ENT032,Deborah Mason,Vendor,Medium,1,63.46,63.46
+ENT017,Devin Schaefer,Individual,Medium,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,13486.16,13486.16
+ENT017,Devin Schaefer,Individual,Medium,ENT002,Megan Mcclain,Vendor,Low,1,11305.53,11305.53
+ENT017,Devin Schaefer,Individual,Medium,ENT004,"Guzman, Hoffman and Baldwin",Company,High,1,9626.66,9626.66
+ENT017,Devin Schaefer,Individual,Medium,ENT005,"Barnes, Cole and Ramirez",Company,High,1,3686.08,3686.08
+ENT017,Devin Schaefer,Individual,Medium,ENT007,Moore-Bernard,Company,Low,2,12661.2,6330.6
+ENT017,Devin Schaefer,Individual,Medium,ENT011,Stacey Ward,Client,Low,3,32734.44,10911.48
+ENT017,Devin Schaefer,Individual,Medium,ENT012,Amber Perez,Client,High,1,235.91,235.91
+ENT017,Devin Schaefer,Individual,Medium,ENT014,Holly Wood,Individual,High,1,12165.27,12165.27
+ENT017,Devin Schaefer,Individual,Medium,ENT015,Mia Sutton,Client,Medium,2,13289.11,6644.56
+ENT017,Devin Schaefer,Individual,Medium,ENT017,Devin Schaefer,Individual,Medium,1,10820.47,10820.47
+ENT017,Devin Schaefer,Individual,Medium,ENT019,Andrew Stewart,Client,Low,1,13146.97,13146.97
+ENT017,Devin Schaefer,Individual,Medium,ENT020,Thomas Bradley,Vendor,Medium,1,3388.99,3388.99
+ENT017,Devin Schaefer,Individual,Medium,ENT024,Cox-Osborn,Company,High,1,4292.69,4292.69
+ENT017,Devin Schaefer,Individual,Medium,ENT025,Ann Williams,Vendor,High,1,14918.02,14918.02
+ENT017,Devin Schaefer,Individual,Medium,ENT026,Christopher Becker,Vendor,High,1,1820.3,1820.3
+ENT017,Devin Schaefer,Individual,Medium,ENT028,Maddox-Valencia,Company,Low,1,12683.43,12683.43
+ENT017,Devin Schaefer,Individual,Medium,ENT029,Ashley Dyer,Individual,Medium,1,8558.5,8558.5
+ENT017,Devin Schaefer,Individual,Medium,ENT030,Mack-Peterson,Company,Low,1,12117.27,12117.27
+ENT017,Devin Schaefer,Individual,Medium,ENT031,Moore-Smith,Company,Medium,1,3229.45,3229.45
+ENT017,Devin Schaefer,Individual,Medium,ENT038,David Bradley,Individual,High,1,13100.2,13100.2
+ENT017,Devin Schaefer,Individual,Medium,ENT040,Beth Keller,Client,Medium,1,10273.88,10273.88
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT003,Amanda Davis,Individual,Low,1,78.1,78.1
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT005,"Barnes, Cole and Ramirez",Company,High,1,14504.16,14504.16
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT006,Robert Wolfe,Client,Low,1,8583.75,8583.75
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT007,Moore-Bernard,Company,Low,1,2376.93,2376.93
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT008,James Howard,Individual,Low,1,2009.29,2009.29
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT011,Stacey Ward,Client,Low,2,17531.43,8765.72
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT013,Dr. Sharon James,Vendor,Low,2,26660.89,13330.44
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT014,Holly Wood,Individual,High,1,10054.15,10054.15
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT015,Mia Sutton,Client,Medium,1,8075.69,8075.69
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT019,Andrew Stewart,Client,Low,2,13126.72,6563.36
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT021,Matthew Foster,Vendor,Low,2,9359.29,4679.65
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT026,Christopher Becker,Vendor,High,1,5491.11,5491.11
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT027,James Ferrell,Individual,High,1,7297.49,7297.49
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT028,Maddox-Valencia,Company,Low,1,3238.19,3238.19
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT031,Moore-Smith,Company,Medium,1,7927.53,7927.53
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT037,Koch-Decker,Company,High,1,5730.86,5730.86
+ENT018,"Robinson, Nguyen and Tate",Company,Low,ENT039,John Jones,Individual,Low,1,7275.6,7275.6
+ENT019,Andrew Stewart,Client,Low,ENT002,Megan Mcclain,Vendor,Low,2,15383.43,7691.72
+ENT019,Andrew Stewart,Client,Low,ENT003,Amanda Davis,Individual,Low,1,4332.26,4332.26
+ENT019,Andrew Stewart,Client,Low,ENT005,"Barnes, Cole and Ramirez",Company,High,1,12289.01,12289.01
+ENT019,Andrew Stewart,Client,Low,ENT007,Moore-Bernard,Company,Low,1,7627.65,7627.65
+ENT019,Andrew Stewart,Client,Low,ENT011,Stacey Ward,Client,Low,2,16082.46,8041.23
+ENT019,Andrew Stewart,Client,Low,ENT014,Holly Wood,Individual,High,1,6462.58,6462.58
+ENT019,Andrew Stewart,Client,Low,ENT015,Mia Sutton,Client,Medium,1,14531.42,14531.42
+ENT019,Andrew Stewart,Client,Low,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,937.84,937.84
+ENT019,Andrew Stewart,Client,Low,ENT020,Thomas Bradley,Vendor,Medium,1,4299.09,4299.09
+ENT019,Andrew Stewart,Client,Low,ENT022,Brenda Taylor,Client,High,2,20289.36,10144.68
+ENT019,Andrew Stewart,Client,Low,ENT024,Cox-Osborn,Company,High,1,7007.1,7007.1
+ENT019,Andrew Stewart,Client,Low,ENT026,Christopher Becker,Vendor,High,1,5832.3,5832.3
+ENT019,Andrew Stewart,Client,Low,ENT035,Troy Nielsen,Individual,High,1,1931.13,1931.13
+ENT020,Thomas Bradley,Vendor,Medium,ENT002,Megan Mcclain,Vendor,Low,2,15475.32,7737.66
+ENT020,Thomas Bradley,Vendor,Medium,ENT005,"Barnes, Cole and Ramirez",Company,High,2,5297.33,2648.66
+ENT020,Thomas Bradley,Vendor,Medium,ENT007,Moore-Bernard,Company,Low,2,20273.45,10136.72
+ENT020,Thomas Bradley,Vendor,Medium,ENT008,James Howard,Individual,Low,1,1224.03,1224.03
+ENT020,Thomas Bradley,Vendor,Medium,ENT009,"Baker, Williams and Stevens",Company,High,1,140.76,140.76
+ENT020,Thomas Bradley,Vendor,Medium,ENT012,Amber Perez,Client,High,1,6908.46,6908.46
+ENT020,Thomas Bradley,Vendor,Medium,ENT014,Holly Wood,Individual,High,1,5576.31,5576.31
+ENT020,Thomas Bradley,Vendor,Medium,ENT017,Devin Schaefer,Individual,Medium,3,19602.91,6534.3
+ENT020,Thomas Bradley,Vendor,Medium,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,3762.93,3762.93
+ENT020,Thomas Bradley,Vendor,Medium,ENT019,Andrew Stewart,Client,Low,1,4357.77,4357.77
+ENT020,Thomas Bradley,Vendor,Medium,ENT022,Brenda Taylor,Client,High,1,14631.23,14631.23
+ENT020,Thomas Bradley,Vendor,Medium,ENT027,James Ferrell,Individual,High,2,11758.19,5879.09
+ENT020,Thomas Bradley,Vendor,Medium,ENT033,Ashley Garrett,Vendor,Low,1,6641.56,6641.56
+ENT020,Thomas Bradley,Vendor,Medium,ENT035,Troy Nielsen,Individual,High,1,229.78,229.78
+ENT020,Thomas Bradley,Vendor,Medium,ENT036,Fred Smith,Vendor,High,1,8953.45,8953.45
+ENT020,Thomas Bradley,Vendor,Medium,ENT038,David Bradley,Individual,High,2,9393.84,4696.92
+ENT021,Matthew Foster,Vendor,Low,ENT007,Moore-Bernard,Company,Low,1,8751.52,8751.52
+ENT021,Matthew Foster,Vendor,Low,ENT009,"Baker, Williams and Stevens",Company,High,1,10059.99,10059.99
+ENT021,Matthew Foster,Vendor,Low,ENT027,James Ferrell,Individual,High,2,5709.43,2854.72
+ENT022,Brenda Taylor,Client,High,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,2741.55,2741.55
+ENT022,Brenda Taylor,Client,High,ENT002,Megan Mcclain,Vendor,Low,2,13492.58,6746.29
+ENT022,Brenda Taylor,Client,High,ENT004,"Guzman, Hoffman and Baldwin",Company,High,1,713.0,713.0
+ENT022,Brenda Taylor,Client,High,ENT011,Stacey Ward,Client,Low,1,3563.13,3563.13
+ENT022,Brenda Taylor,Client,High,ENT012,Amber Perez,Client,High,1,9713.82,9713.82
+ENT022,Brenda Taylor,Client,High,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,13207.79,13207.79
+ENT022,Brenda Taylor,Client,High,ENT026,Christopher Becker,Vendor,High,1,5016.29,5016.29
+ENT022,Brenda Taylor,Client,High,ENT027,James Ferrell,Individual,High,2,6420.26,3210.13
+ENT022,Brenda Taylor,Client,High,ENT028,Maddox-Valencia,Company,Low,1,4081.97,4081.97
+ENT022,Brenda Taylor,Client,High,ENT031,Moore-Smith,Company,Medium,1,2900.28,2900.28
+ENT022,Brenda Taylor,Client,High,ENT035,Troy Nielsen,Individual,High,1,14118.61,14118.61
+ENT022,Brenda Taylor,Client,High,ENT039,John Jones,Individual,Low,1,1987.46,1987.46
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,ENT003,Amanda Davis,Individual,Low,1,6023.71,6023.71
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,ENT008,James Howard,Individual,Low,1,1395.52,1395.52
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,ENT017,Devin Schaefer,Individual,Medium,1,955.31,955.31
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,ENT020,Thomas Bradley,Vendor,Medium,1,2001.44,2001.44
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,ENT024,Cox-Osborn,Company,High,1,13771.1,13771.1
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,ENT027,James Ferrell,Individual,High,1,1072.86,1072.86
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,ENT032,Deborah Mason,Vendor,Medium,2,16628.13,8314.06
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,ENT034,Lisa Hernandez,Vendor,Medium,1,8917.45,8917.45
+ENT023,"Ryan, Burgess and Patterson",Company,Medium,ENT035,Troy Nielsen,Individual,High,1,4346.81,4346.81
+ENT024,Cox-Osborn,Company,High,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,14780.0,14780.0
+ENT024,Cox-Osborn,Company,High,ENT007,Moore-Bernard,Company,Low,2,18295.03,9147.52
+ENT024,Cox-Osborn,Company,High,ENT011,Stacey Ward,Client,Low,2,11519.96,5759.98
+ENT024,Cox-Osborn,Company,High,ENT019,Andrew Stewart,Client,Low,1,1174.05,1174.05
+ENT024,Cox-Osborn,Company,High,ENT026,Christopher Becker,Vendor,High,1,6959.37,6959.37
+ENT024,Cox-Osborn,Company,High,ENT027,James Ferrell,Individual,High,2,9023.26,4511.63
+ENT024,Cox-Osborn,Company,High,ENT028,Maddox-Valencia,Company,Low,1,14255.05,14255.05
+ENT024,Cox-Osborn,Company,High,ENT033,Ashley Garrett,Vendor,Low,1,4019.14,4019.14
+ENT024,Cox-Osborn,Company,High,ENT034,Lisa Hernandez,Vendor,Medium,1,10562.48,10562.48
+ENT024,Cox-Osborn,Company,High,ENT035,Troy Nielsen,Individual,High,2,19829.32,9914.66
+ENT024,Cox-Osborn,Company,High,ENT036,Fred Smith,Vendor,High,1,14766.99,14766.99
+ENT024,Cox-Osborn,Company,High,ENT038,David Bradley,Individual,High,2,17023.85,8511.92
+ENT024,Cox-Osborn,Company,High,ENT039,John Jones,Individual,Low,1,3332.22,3332.22
+ENT025,Ann Williams,Vendor,High,ENT017,Devin Schaefer,Individual,Medium,1,3843.56,3843.56
+ENT025,Ann Williams,Vendor,High,ENT030,Mack-Peterson,Company,Low,1,676.93,676.93
+ENT026,Christopher Becker,Vendor,High,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,3985.27,3985.27
+ENT026,Christopher Becker,Vendor,High,ENT002,Megan Mcclain,Vendor,Low,1,2710.93,2710.93
+ENT026,Christopher Becker,Vendor,High,ENT006,Robert Wolfe,Client,Low,1,4506.67,4506.67
+ENT026,Christopher Becker,Vendor,High,ENT009,"Baker, Williams and Stevens",Company,High,2,19019.3,9509.65
+ENT026,Christopher Becker,Vendor,High,ENT011,Stacey Ward,Client,Low,1,1145.55,1145.55
+ENT026,Christopher Becker,Vendor,High,ENT013,Dr. Sharon James,Vendor,Low,1,1163.05,1163.05
+ENT026,Christopher Becker,Vendor,High,ENT019,Andrew Stewart,Client,Low,2,16518.21,8259.1
+ENT026,Christopher Becker,Vendor,High,ENT020,Thomas Bradley,Vendor,Medium,1,11193.43,11193.43
+ENT026,Christopher Becker,Vendor,High,ENT021,Matthew Foster,Vendor,Low,1,10767.44,10767.44
+ENT026,Christopher Becker,Vendor,High,ENT023,"Ryan, Burgess and Patterson",Company,Medium,1,10153.53,10153.53
+ENT026,Christopher Becker,Vendor,High,ENT024,Cox-Osborn,Company,High,1,5673.11,5673.11
+ENT026,Christopher Becker,Vendor,High,ENT028,Maddox-Valencia,Company,Low,1,3534.23,3534.23
+ENT026,Christopher Becker,Vendor,High,ENT031,Moore-Smith,Company,Medium,5,26855.14,5371.03
+ENT026,Christopher Becker,Vendor,High,ENT038,David Bradley,Individual,High,2,18000.33,9000.17
+ENT026,Christopher Becker,Vendor,High,ENT040,Beth Keller,Client,Medium,1,2787.17,2787.17
+ENT027,James Ferrell,Individual,High,ENT007,Moore-Bernard,Company,Low,1,11411.54,11411.54
+ENT027,James Ferrell,Individual,High,ENT008,James Howard,Individual,Low,1,11046.43,11046.43
+ENT027,James Ferrell,Individual,High,ENT009,"Baker, Williams and Stevens",Company,High,1,651.39,651.39
+ENT027,James Ferrell,Individual,High,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,6331.01,6331.01
+ENT027,James Ferrell,Individual,High,ENT020,Thomas Bradley,Vendor,Medium,1,9065.61,9065.61
+ENT027,James Ferrell,Individual,High,ENT022,Brenda Taylor,Client,High,1,6368.09,6368.09
+ENT027,James Ferrell,Individual,High,ENT024,Cox-Osborn,Company,High,1,14893.03,14893.03
+ENT027,James Ferrell,Individual,High,ENT026,Christopher Becker,Vendor,High,2,7239.48,3619.74
+ENT027,James Ferrell,Individual,High,ENT031,Moore-Smith,Company,Medium,1,6980.02,6980.02
+ENT027,James Ferrell,Individual,High,ENT035,Troy Nielsen,Individual,High,1,9936.52,9936.52
+ENT027,James Ferrell,Individual,High,ENT038,David Bradley,Individual,High,2,16990.06,8495.03
+ENT027,James Ferrell,Individual,High,ENT040,Beth Keller,Client,Medium,2,20559.31,10279.65
+ENT028,Maddox-Valencia,Company,Low,ENT002,Megan Mcclain,Vendor,Low,1,935.86,935.86
+ENT028,Maddox-Valencia,Company,Low,ENT006,Robert Wolfe,Client,Low,2,21554.58,10777.29
+ENT028,Maddox-Valencia,Company,Low,ENT007,Moore-Bernard,Company,Low,2,16897.33,8448.67
+ENT028,Maddox-Valencia,Company,Low,ENT008,James Howard,Individual,Low,1,2053.96,2053.96
+ENT028,Maddox-Valencia,Company,Low,ENT009,"Baker, Williams and Stevens",Company,High,1,7043.75,7043.75
+ENT028,Maddox-Valencia,Company,Low,ENT016,Carolyn Daniel,Vendor,Low,2,14243.68,7121.84
+ENT028,Maddox-Valencia,Company,Low,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,5244.94,5244.94
+ENT028,Maddox-Valencia,Company,Low,ENT020,Thomas Bradley,Vendor,Medium,2,19343.52,9671.76
+ENT028,Maddox-Valencia,Company,Low,ENT022,Brenda Taylor,Client,High,1,10843.42,10843.42
+ENT028,Maddox-Valencia,Company,Low,ENT025,Ann Williams,Vendor,High,1,5102.07,5102.07
+ENT028,Maddox-Valencia,Company,Low,ENT028,Maddox-Valencia,Company,Low,1,4477.86,4477.86
+ENT028,Maddox-Valencia,Company,Low,ENT032,Deborah Mason,Vendor,Medium,1,3342.71,3342.71
+ENT028,Maddox-Valencia,Company,Low,ENT035,Troy Nielsen,Individual,High,3,20660.05,6886.68
+ENT028,Maddox-Valencia,Company,Low,ENT038,David Bradley,Individual,High,2,15708.58,7854.29
+ENT028,Maddox-Valencia,Company,Low,ENT039,John Jones,Individual,Low,2,931.47,465.74
+ENT029,Ashley Dyer,Individual,Medium,ENT017,Devin Schaefer,Individual,Medium,1,13120.43,13120.43
+ENT029,Ashley Dyer,Individual,Medium,ENT019,Andrew Stewart,Client,Low,1,11608.57,11608.57
+ENT029,Ashley Dyer,Individual,Medium,ENT028,Maddox-Valencia,Company,Low,1,6646.34,6646.34
+ENT029,Ashley Dyer,Individual,Medium,ENT033,Ashley Garrett,Vendor,Low,1,14818.69,14818.69
+ENT029,Ashley Dyer,Individual,Medium,ENT036,Fred Smith,Vendor,High,1,11404.16,11404.16
+ENT029,Ashley Dyer,Individual,Medium,ENT037,Koch-Decker,Company,High,1,8325.89,8325.89
+ENT030,Mack-Peterson,Company,Low,ENT002,Megan Mcclain,Vendor,Low,1,9302.71,9302.71
+ENT030,Mack-Peterson,Company,Low,ENT005,"Barnes, Cole and Ramirez",Company,High,1,1391.09,1391.09
+ENT030,Mack-Peterson,Company,Low,ENT015,Mia Sutton,Client,Medium,1,3013.6,3013.6
+ENT030,Mack-Peterson,Company,Low,ENT023,"Ryan, Burgess and Patterson",Company,Medium,1,5760.12,5760.12
+ENT030,Mack-Peterson,Company,Low,ENT028,Maddox-Valencia,Company,Low,1,3906.39,3906.39
+ENT030,Mack-Peterson,Company,Low,ENT031,Moore-Smith,Company,Medium,1,6736.41,6736.41
+ENT030,Mack-Peterson,Company,Low,ENT035,Troy Nielsen,Individual,High,1,7975.56,7975.56
+ENT031,Moore-Smith,Company,Medium,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,14142.56,14142.56
+ENT031,Moore-Smith,Company,Medium,ENT002,Megan Mcclain,Vendor,Low,2,6802.92,3401.46
+ENT031,Moore-Smith,Company,Medium,ENT009,"Baker, Williams and Stevens",Company,High,1,457.32,457.32
+ENT031,Moore-Smith,Company,Medium,ENT014,Holly Wood,Individual,High,1,13045.37,13045.37
+ENT031,Moore-Smith,Company,Medium,ENT020,Thomas Bradley,Vendor,Medium,2,5433.17,2716.58
+ENT031,Moore-Smith,Company,Medium,ENT022,Brenda Taylor,Client,High,1,8418.3,8418.3
+ENT031,Moore-Smith,Company,Medium,ENT028,Maddox-Valencia,Company,Low,2,10218.26,5109.13
+ENT031,Moore-Smith,Company,Medium,ENT033,Ashley Garrett,Vendor,Low,1,5820.14,5820.14
+ENT031,Moore-Smith,Company,Medium,ENT035,Troy Nielsen,Individual,High,1,9827.75,9827.75
+ENT031,Moore-Smith,Company,Medium,ENT037,Koch-Decker,Company,High,1,2168.19,2168.19
+ENT031,Moore-Smith,Company,Medium,ENT038,David Bradley,Individual,High,3,27935.05,9311.68
+ENT031,Moore-Smith,Company,Medium,ENT039,John Jones,Individual,Low,1,6136.54,6136.54
+ENT031,Moore-Smith,Company,Medium,ENT040,Beth Keller,Client,Medium,1,8195.02,8195.02
+ENT032,Deborah Mason,Vendor,Medium,ENT001,"Rodriguez, Figueroa and Sanchez",Company,Low,1,9873.46,9873.46
+ENT032,Deborah Mason,Vendor,Medium,ENT005,"Barnes, Cole and Ramirez",Company,High,1,12475.08,12475.08
+ENT032,Deborah Mason,Vendor,Medium,ENT006,Robert Wolfe,Client,Low,1,4673.36,4673.36
+ENT032,Deborah Mason,Vendor,Medium,ENT011,Stacey Ward,Client,Low,1,12469.92,12469.92
+ENT032,Deborah Mason,Vendor,Medium,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,6246.97,6246.97
+ENT032,Deborah Mason,Vendor,Medium,ENT019,Andrew Stewart,Client,Low,1,3531.57,3531.57
+ENT032,Deborah Mason,Vendor,Medium,ENT023,"Ryan, Burgess and Patterson",Company,Medium,1,298.0,298.0
+ENT032,Deborah Mason,Vendor,Medium,ENT027,James Ferrell,Individual,High,1,6865.56,6865.56
+ENT032,Deborah Mason,Vendor,Medium,ENT031,Moore-Smith,Company,Medium,1,3785.54,3785.54
+ENT032,Deborah Mason,Vendor,Medium,ENT032,Deborah Mason,Vendor,Medium,1,7996.79,7996.79
+ENT032,Deborah Mason,Vendor,Medium,ENT033,Ashley Garrett,Vendor,Low,2,14675.4,7337.7
+ENT032,Deborah Mason,Vendor,Medium,ENT035,Troy Nielsen,Individual,High,1,7419.58,7419.58
+ENT032,Deborah Mason,Vendor,Medium,ENT039,John Jones,Individual,Low,1,13809.8,13809.8
+ENT033,Ashley Garrett,Vendor,Low,ENT003,Amanda Davis,Individual,Low,1,3465.75,3465.75
+ENT033,Ashley Garrett,Vendor,Low,ENT009,"Baker, Williams and Stevens",Company,High,1,4293.82,4293.82
+ENT033,Ashley Garrett,Vendor,Low,ENT013,Dr. Sharon James,Vendor,Low,1,1307.05,1307.05
+ENT033,Ashley Garrett,Vendor,Low,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,8047.68,8047.68
+ENT033,Ashley Garrett,Vendor,Low,ENT023,"Ryan, Burgess and Patterson",Company,Medium,1,1194.59,1194.59
+ENT033,Ashley Garrett,Vendor,Low,ENT028,Maddox-Valencia,Company,Low,1,164.07,164.07
+ENT033,Ashley Garrett,Vendor,Low,ENT031,Moore-Smith,Company,Medium,1,5240.8,5240.8
+ENT033,Ashley Garrett,Vendor,Low,ENT032,Deborah Mason,Vendor,Medium,1,13704.47,13704.47
+ENT034,Lisa Hernandez,Vendor,Medium,ENT002,Megan Mcclain,Vendor,Low,1,13700.62,13700.62
+ENT034,Lisa Hernandez,Vendor,Medium,ENT012,Amber Perez,Client,High,1,5502.75,5502.75
+ENT034,Lisa Hernandez,Vendor,Medium,ENT015,Mia Sutton,Client,Medium,1,7600.62,7600.62
+ENT034,Lisa Hernandez,Vendor,Medium,ENT021,Matthew Foster,Vendor,Low,1,14090.08,14090.08
+ENT034,Lisa Hernandez,Vendor,Medium,ENT024,Cox-Osborn,Company,High,1,12354.82,12354.82
+ENT034,Lisa Hernandez,Vendor,Medium,ENT027,James Ferrell,Individual,High,1,9931.28,9931.28
+ENT034,Lisa Hernandez,Vendor,Medium,ENT032,Deborah Mason,Vendor,Medium,1,13854.35,13854.35
+ENT034,Lisa Hernandez,Vendor,Medium,ENT035,Troy Nielsen,Individual,High,1,12003.03,12003.03
+ENT035,Troy Nielsen,Individual,High,ENT002,Megan Mcclain,Vendor,Low,1,14296.24,14296.24
+ENT035,Troy Nielsen,Individual,High,ENT003,Amanda Davis,Individual,Low,1,11406.06,11406.06
+ENT035,Troy Nielsen,Individual,High,ENT007,Moore-Bernard,Company,Low,1,8963.95,8963.95
+ENT035,Troy Nielsen,Individual,High,ENT009,"Baker, Williams and Stevens",Company,High,1,9188.93,9188.93
+ENT035,Troy Nielsen,Individual,High,ENT011,Stacey Ward,Client,Low,2,11100.01,5550.0
+ENT035,Troy Nielsen,Individual,High,ENT012,Amber Perez,Client,High,2,18804.21,9402.1
+ENT035,Troy Nielsen,Individual,High,ENT017,Devin Schaefer,Individual,Medium,1,13764.11,13764.11
+ENT035,Troy Nielsen,Individual,High,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,12384.04,12384.04
+ENT035,Troy Nielsen,Individual,High,ENT020,Thomas Bradley,Vendor,Medium,1,14971.89,14971.89
+ENT035,Troy Nielsen,Individual,High,ENT021,Matthew Foster,Vendor,Low,1,5773.1,5773.1
+ENT035,Troy Nielsen,Individual,High,ENT026,Christopher Becker,Vendor,High,1,14517.6,14517.6
+ENT035,Troy Nielsen,Individual,High,ENT027,James Ferrell,Individual,High,1,3387.12,3387.12
+ENT035,Troy Nielsen,Individual,High,ENT031,Moore-Smith,Company,Medium,2,3508.21,1754.1
+ENT035,Troy Nielsen,Individual,High,ENT032,Deborah Mason,Vendor,Medium,3,10908.09,3636.03
+ENT035,Troy Nielsen,Individual,High,ENT035,Troy Nielsen,Individual,High,1,4373.18,4373.18
+ENT036,Fred Smith,Vendor,High,ENT002,Megan Mcclain,Vendor,Low,1,9086.3,9086.3
+ENT036,Fred Smith,Vendor,High,ENT003,Amanda Davis,Individual,Low,1,12382.91,12382.91
+ENT036,Fred Smith,Vendor,High,ENT004,"Guzman, Hoffman and Baldwin",Company,High,1,13661.49,13661.49
+ENT036,Fred Smith,Vendor,High,ENT013,Dr. Sharon James,Vendor,Low,1,3839.47,3839.47
+ENT036,Fred Smith,Vendor,High,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,9775.67,9775.67
+ENT036,Fred Smith,Vendor,High,ENT019,Andrew Stewart,Client,Low,2,8354.8,4177.4
+ENT036,Fred Smith,Vendor,High,ENT022,Brenda Taylor,Client,High,1,7995.9,7995.9
+ENT036,Fred Smith,Vendor,High,ENT025,Ann Williams,Vendor,High,1,6360.01,6360.01
+ENT036,Fred Smith,Vendor,High,ENT027,James Ferrell,Individual,High,1,2830.03,2830.03
+ENT036,Fred Smith,Vendor,High,ENT033,Ashley Garrett,Vendor,Low,1,2564.5,2564.5
+ENT036,Fred Smith,Vendor,High,ENT035,Troy Nielsen,Individual,High,1,5710.92,5710.92
+ENT036,Fred Smith,Vendor,High,ENT038,David Bradley,Individual,High,1,14263.02,14263.02
+ENT036,Fred Smith,Vendor,High,ENT039,John Jones,Individual,Low,1,926.95,926.95
+ENT037,Koch-Decker,Company,High,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,597.9,597.9
+ENT037,Koch-Decker,Company,High,ENT021,Matthew Foster,Vendor,Low,1,2022.81,2022.81
+ENT037,Koch-Decker,Company,High,ENT027,James Ferrell,Individual,High,1,9530.9,9530.9
+ENT038,David Bradley,Individual,High,ENT004,"Guzman, Hoffman and Baldwin",Company,High,1,11843.67,11843.67
+ENT038,David Bradley,Individual,High,ENT009,"Baker, Williams and Stevens",Company,High,1,11948.5,11948.5
+ENT038,David Bradley,Individual,High,ENT014,Holly Wood,Individual,High,1,5964.57,5964.57
+ENT038,David Bradley,Individual,High,ENT015,Mia Sutton,Client,Medium,1,132.68,132.68
+ENT038,David Bradley,Individual,High,ENT018,"Robinson, Nguyen and Tate",Company,Low,1,458.57,458.57
+ENT038,David Bradley,Individual,High,ENT020,Thomas Bradley,Vendor,Medium,1,5290.9,5290.9
+ENT038,David Bradley,Individual,High,ENT022,Brenda Taylor,Client,High,1,3304.59,3304.59
+ENT038,David Bradley,Individual,High,ENT027,James Ferrell,Individual,High,1,2520.51,2520.51
+ENT038,David Bradley,Individual,High,ENT037,Koch-Decker,Company,High,1,2334.06,2334.06
+ENT038,David Bradley,Individual,High,ENT038,David Bradley,Individual,High,1,11866.34,11866.34
+ENT039,John Jones,Individual,Low,ENT002,Megan Mcclain,Vendor,Low,1,3628.98,3628.98
+ENT039,John Jones,Individual,Low,ENT004,"Guzman, Hoffman and Baldwin",Company,High,1,10117.68,10117.68
+ENT039,John Jones,Individual,Low,ENT007,Moore-Bernard,Company,Low,1,6302.89,6302.89
+ENT039,John Jones,Individual,Low,ENT011,Stacey Ward,Client,Low,1,13888.31,13888.31
+ENT039,John Jones,Individual,Low,ENT012,Amber Perez,Client,High,1,12210.73,12210.73
+ENT039,John Jones,Individual,Low,ENT013,Dr. Sharon James,Vendor,Low,1,6757.39,6757.39
+ENT039,John Jones,Individual,Low,ENT024,Cox-Osborn,Company,High,1,12066.05,12066.05
+ENT039,John Jones,Individual,Low,ENT026,Christopher Becker,Vendor,High,1,8815.4,8815.4
+ENT039,John Jones,Individual,Low,ENT032,Deborah Mason,Vendor,Medium,1,6415.44,6415.44
+ENT039,John Jones,Individual,Low,ENT033,Ashley Garrett,Vendor,Low,1,142.15,142.15
+ENT039,John Jones,Individual,Low,ENT034,Lisa Hernandez,Vendor,Medium,1,11625.26,11625.26
+ENT039,John Jones,Individual,Low,ENT036,Fred Smith,Vendor,High,1,4531.72,4531.72
+ENT039,John Jones,Individual,Low,ENT038,David Bradley,Individual,High,1,849.05,849.05
+ENT040,Beth Keller,Client,Medium,ENT002,Megan Mcclain,Vendor,Low,1,8963.72,8963.72
+ENT040,Beth Keller,Client,Medium,ENT017,Devin Schaefer,Individual,Medium,1,4137.1,4137.1
+ENT040,Beth Keller,Client,Medium,ENT019,Andrew Stewart,Client,Low,3,24825.37,8275.12
+ENT040,Beth Keller,Client,Medium,ENT020,Thomas Bradley,Vendor,Medium,2,13182.27,6591.14
+ENT040,Beth Keller,Client,Medium,ENT027,James Ferrell,Individual,High,1,4360.49,4360.49
+ENT040,Beth Keller,Client,Medium,ENT028,Maddox-Valencia,Company,Low,1,10616.95,10616.95
+ENT040,Beth Keller,Client,Medium,ENT031,Moore-Smith,Company,Medium,2,27606.19,13803.1
+ENT040,Beth Keller,Client,Medium,ENT032,Deborah Mason,Vendor,Medium,1,11512.47,11512.47
+ENT040,Beth Keller,Client,Medium,ENT034,Lisa Hernandez,Vendor,Medium,1,8076.39,8076.39
+ENT040,Beth Keller,Client,Medium,ENT038,David Bradley,Individual,High,1,14567.12,14567.12
