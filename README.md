@@ -127,4 +127,4 @@ entity_relationship_dashboard/
 
 Aylin Rodriguez
 
-Data Analysis | Automation | Python | Power BI
+Data Analysis | Data Reconstruction & Automation Specialist | Complex Workflows, PDFs | Python | Power BI
